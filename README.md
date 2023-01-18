@@ -10,7 +10,6 @@ npm install
 ```
 
 # Launching program
-Building a distribution version:
 ```
 npm run dev
 ```
